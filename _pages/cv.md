@@ -31,8 +31,9 @@ Work experience
     * As a system administrator, I was responsible from the management of servers and infrastructural operations from customers to company wide.
 
 * October 2016 - January 2019: Part Time Student Assistant
-  * June 2018 - January 2019: Senior Student Assistant: Providing support on information desk and call center to academic, administrative and student users in order to solve IT - related problems as senior part time employee which supervises asisstant students and requires multi tasking and communication skills; while developing and participating different projects in system group directly. Projects included the software of which System Group uses in order to maintain infrastructure.
-  * October 2016 - June 2018: Student Assistant: Providing support on information desk and call center to academic, administrative and student users in order to solve IT - related problems as junior part time employee; whilst taking projects in order to develop basic IT related know how.
+  * Istanbul Technical University - IT Head Department
+    * June 2018 - January 2019: Senior Student Assistant: Providing support on information desk and call center to academic, administrative and student users in order to solve IT - related problems as senior part time employee which supervises asisstant students and requires multi tasking and communication skills; while developing and participating different projects in system group directly. Projects included the software of which System Group uses in order to maintain infrastructure.
+    * October 2016 - June 2018: Student Assistant: Providing support on information desk and call center to academic, administrative and student users in order to solve IT - related problems as junior part time employee; whilst taking projects in order to develop basic IT related know how.
   
 Skills
 ======
