@@ -1,7 +1,7 @@
 ---
 title: 'Jupyter Notebook on Clusters with Slurm'
 date: 2021-03-27
-permalink: /posts/2021/023/jupyter-notebook-cluster/
+permalink: /posts/2021/03/jupyter-notebook-cluster/
 tags:
   - Jupyter Notebook
   - Cluster
