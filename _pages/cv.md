@@ -11,17 +11,20 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, Koc University, 2021 (expected)
-  * Thesis: Fast Structural Alignment of Protein Structures by Using Techniques of Hashing (Advisors: [Attila Gursoy](http://mysite.ku.edu.tr/agursoy/) and [Ozlem Keskin](http://mysite.ku.edu.tr/okeskin/))
+* M.S. in Data Science, Koc University, 2022
+  * Thesis: LISA: A Fast Filtering Algorithm for Structural Alignment (Advisors: [Attila Gursoy](http://mysite.ku.edu.tr/agursoy/) and [Ozlem Keskin](http://mysite.ku.edu.tr/okeskin/))
 * B.S. in Applied Mathematics, Istanbul Technical University, 2019
   * Thesis: A Study on Statlog Australian Credit Approval Dataset (Advisor: [Atabey Kaygun](https://web.itu.edu.tr/kaygun/))
 
 Work experience
 ======
-* September 2019 - Present: Research Assistant
+* September 2020 - Present: Data Scientist/Data Engineer
+  * BTS Group
+    * As a data scientist/data engineer, my role is to analyse data, create automated dashboards, integrate my solutions to the products via an API and asynchronous task queues. Using stream processing tools to gather data and track alerts in real time. Handling large scale inputs using stream processing platforms and time series databases.  
+* September 2019 - August 2022: Research Assistant
   * Koc University - COSBILAB
-    * Research Subject: Fast structural alignment of protein structures by the development of a new hashing algorithm.
-* September 2019 - Present: Teaching Assistant
+    * Research Subject: Fast structural filtering of protein structures.
+* September 2019 - August 2021: Teaching Assistant
   * Koc University
     * Spring 2021 - COMP132 - Advanced Programming
     * Fall 2020 - COMP125 - Introduction to Programming with Python
@@ -59,7 +62,14 @@ Participated Courses
 Skills
 ======
 * Julia
-* Python
+* Python (Pandas, Sci-Kit Learn, Numpy, Matplotlib, Flask, Celery)
+* TICK Environment (Telegraf, Influxdb, Chronograf, Kapacitor)
+* Kafka/KsqlDB
+* Grafana
+* SQL
+* Docker, docker-compose
+* Git
+
 
 Publications
 ======
