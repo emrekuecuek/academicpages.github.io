@@ -16,9 +16,12 @@ Education
 * B.S. in Applied Mathematics, Istanbul Technical University, 2019
   * Thesis: A Study on Statlog Australian Credit Approval Dataset (Advisor: [Atabey Kaygun](https://web.itu.edu.tr/kaygun/))
 
-Work experience
+Work Experience
 ======
-* September 2020 - Present: Data Scientist/Data Engineer
+* January 2023 - Present: Data Scientist
+  * Afiniti
+    * As a data scientist at Afiniti, I am trying to improve the pairing experience between clients and call center agents to improve the user experience and profitability. I take part as a member of a team for a call center queue for a telecommunications product and am developing machine learning models to help Afiniti achieve its aim. In addition, my role is to work as a developer on internal tools for generating reports and dashboards automatically.
+* September 2020 - January 2023: Data Scientist/Data Engineer
   * BTS Group
     * As a data scientist/data engineer, my role is to analyse data, create automated dashboards, integrate my solutions to the products via an API and asynchronous task queues. Using stream processing tools to gather data and track alerts in real time. Handling large scale inputs using stream processing platforms and time series databases.  
 * September 2019 - August 2022: Research Assistant
@@ -62,7 +65,7 @@ Participated Courses
 Skills
 ======
 * Julia
-* Python (Pandas, Sci-Kit Learn, Numpy, Matplotlib, Flask, Celery)
+* Python (Pandas, Sci-Kit Learn, Numpy, Matplotlib, Flask, Celery, Tensorflow)
 * TICK Environment (Telegraf, Influxdb, Chronograf, Kapacitor)
 * Kafka/KsqlDB
 * Grafana
